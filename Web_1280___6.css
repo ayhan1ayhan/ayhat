@@ -1,0 +1,305 @@
+
+body{
+	height:150vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+.ID7022416_jennifer_lawrence_hd {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 993.75px;
+	left: 0px;
+	top: 0px;
+}
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 78.974px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+			
+} 
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+#NEWS_A4_Text_7 {
+	filter: drop-shadow(8px 5px 6px rgba(255, 255, 255, 1));
+	position: absolute;
+	left: 800px;
+	top: 100px;
+	overflow: hidden;
+	width: 485px;
+	height: 216px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,119,0,1);
+}
+#new_movies {
+	filter: drop-shadow(0px 15px 6px rgba(255, 255, 255, 0.729));
+	position: absolute;
+	left: 80px;
+	top: 270px;
+	overflow: hidden;
+	width: 644px;
+	height: 131px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#Group_21 {
+	position: absolute;
+	width: 658px;
+	height: 294px;
+	left: 40px;
+	top: 411px;
+	overflow: visible;
+}
+.ID51oXULX085L {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 294px;
+	left: 0px;
+	top: 0px;
+}
+.ID51gddX1jGcL {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 294px;
+	left: 233px;
+	top: 0px;
+}
+.ID61RTo5963ML {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 294px;
+	left: 481px;
+	top: 0px;
+	
+}
+#Jennifer_Lawrence {
+	position: absolute;
+	left: 25px;
+	top: 1011px;
+	overflow: visible;
+	width: 637px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#Jennifer_Shrader_Lawrence__bor {
+	position: absolute;
+	left: 25px;
+	top: 1126px;
+	overflow: hidden;
+	width: 628px;
+	height: 1154px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 636px;
+	height: 1224px;
+	left: 691px;
+	top: 1024px;
+}
+.Jennifer_Lawrence_SDCC_2015_X_ {
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	height: 623px;
+	left: 749px;
+	top: 1036px;
+}
+#Group_22 {
+	position: absolute;
+	width: 646px;
+	height: 558px;
+	left: 721px;
+	top: 1679px;
+	overflow: visible;
+}
+#Lawrence_at_the_2015_San_Diego {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: hidden;
+	width: 499px;
+	height: 52px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Born {
+	position: absolute;
+	left: 0px;
+	top: 114px;
+	overflow: hidden;
+	width: 121px;
+	height: 119px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#Residence {
+	position: absolute;
+	left: 0px;
+	top: 235px;
+	overflow: hidden;
+	width: 219px;
+	height: 119px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#Occupation {
+	position: absolute;
+	left: 0px;
+	top: 356px;
+	overflow: hidden;
+	width: 219px;
+	height: 68px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#Years_active {
+	position: absolute;
+	left: 0px;
+	top: 466px;
+	overflow: hidden;
+	width: 275px;
+	height: 68px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#August_15__1990__age_29__India {
+	position: absolute;
+	left: 146px;
+	top: 91px;
+	overflow: hidden;
+	width: 450px;
+	height: 144px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#__Beverly_Hills__California__N {
+	position: absolute;
+	left: 208px;
+	top: 165px;
+	overflow: hidden;
+	width: 439px;
+	height: 171px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Actress {
+	position: absolute;
+	left: 315px;
+	top: 364px;
+	overflow: hidden;
+	width: 303px;
+	height: 82px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#ID2006_present {
+	position: absolute;
+	left: 315px;
+	top: 476px;
+	overflow: hidden;
+	width: 303px;
+	height: 82px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}

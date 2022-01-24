@@ -1,0 +1,334 @@
+
+
+
+body{
+	background-image: url(2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 30px;
+	padding-bottom: 80px;
+	vertical-align: middle;
+}
+.main-nav li
+{
+    display: inline-block;
+	
+} 
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___4 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1366px;
+	height: 1384px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 4;
+	--web-view-id: Web_1280___4;
+	--web-enable-deep-linking: true;
+}
+
+
+.ID4 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 768px;
+	left: 0px;
+	top: 616px;
+}
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 78.974px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#SERVICES {
+	filter: drop-shadow(8px 5px 6px rgba(255, 255, 255, 1));
+	position: absolute;
+	left: 330px;
+	top: 70px;
+	overflow: hidden;
+	width: 421px;
+	height: 139px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 92px;
+	color: rgba(255,119,0,1);
+}
+#My_Offered_Services {
+	filter: drop-shadow(0px 15px 6px rgba(255, 255, 255, 0.729));
+	position: absolute;
+	left: 152px;
+	top: 230px;
+	overflow: hidden;
+	width: 1064px;
+	height: 131px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#At_about_this_time_of_year__so {
+	position: absolute;
+	left: 312.5px;
+	top: 346.5px;
+	overflow: hidden;
+	width: 743px;
+	height: 190px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#Group_23 {
+	position: absolute;
+	width: 1345px;
+	height: 769.342px;
+	left: 28px;
+	top: 632px;
+	overflow: visible;
+}
+#Group_20 {
+	position: absolute;
+	width: 636px;
+	height: 356.757px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ic_photo_camera_24px {
+	position: absolute;
+	width: 93.959px;
+	height: 76.736px;
+	left: 214px;
+	top: 33px;
+	overflow: visible;
+}
+#Group_16 {
+	position: absolute;
+	width: 93.959px;
+	height: 76.736px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 36.78px;
+	top: 33px;
+}
+.Path_92 {
+	overflow: visible;
+	position: absolute;
+	width: 93.959px;
+	height: 76.736px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Photography__ {
+	position: absolute;
+	left: 59.5px;
+	top:100px;
+	overflow: hidden;
+	width: 454px;
+	height: 105px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#Do_you_want_to_be_even_more_su {
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	overflow: hidden;
+	width: 637px;
+	height: 172px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_19 {
+	position: absolute;
+	width: 683px;
+	height: 340px;
+	left: 662px;
+	top: 0px;
+	overflow: visible;
+}
+#Web_Development_ {
+	position: absolute;
+	left: 21.5px;
+	top: 109px;
+	overflow: hidden;
+	width: 613px;
+	height: 92px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#If_you_are_an_entrepreneur__yo {
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	overflow: hidden;
+	width: 684px;
+	height: 143px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.ic_laptop_chromebook_24px {
+	
+	position: absolute;
+	width: 113.317px;
+	height: 86.524px;
+	left:304px;
+	top: 33px;
+	
+}
+#Group_17 {
+	position: absolute;
+	width: 560px;
+	height: 405.342px;
+	left: 0px;
+	top: 364px;
+	overflow: visible;
+}
+#Web_Design_ {
+	position: absolute;
+	left: 32.5px;
+	top: 124.342px;
+	overflow: hidden;
+	width: 454px;
+	height: 117px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#_It_is_not_because_things_are_ {
+	position: absolute;
+	left: 0px;
+	top: 233.342px;
+	overflow: hidden;
+	width: 561px;
+	height: 172px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.ic_pie_chart_24px {
+	overflow: visible;
+	position: absolute;
+	width: 107.318px;
+	height: 99.584px;
+	transform: translate(-15px, -802.658px) matrix(1,0,0,1,207.726,819.133) rotate(-22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_18 {
+	position: absolute;
+	width: 658px;
+	height: 407.982px;
+	left: 655px;
+	top: 331px;
+	overflow: visible;
+}
+#Graphic_Design_You_ve_h_ {
+	position: absolute;
+	left: 93.5px;
+	top: 172.982px;
+	overflow: hidden;
+	width: 516px;
+	height: 117px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#You_ve_heard_the_expression___ {
+	position: absolute;
+	left: 0px;
+	top: 273.982px;
+	overflow: hidden;
+	width: 659px;
+	height: 134px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.graphic_design {
+	overflow: visible;
+	position: absolute;
+	width: 225.648px;
+	height: 190.982px;
+	left: 238px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
